@@ -11,7 +11,7 @@
 
 - ⚡ I've been helping as an assistant tutor with Practicum X Yandex: with the web development program and Pair Programming.
 
-- 📫 How to reach me **jennatoff@comcast.net**
+- 📫 Reach me at **jennatoff@comcast.net**
 
 - 😄 Pronouns: She / Her / They
 

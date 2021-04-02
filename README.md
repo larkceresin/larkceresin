@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **passion projects**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **UI / UX Design** and **Java**
 
 - 👯 I’m looking to collaborate with others on [GitWiki](https://github.com/larkceresin/GitWiki)
 

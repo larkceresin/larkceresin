@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on **passion projects**
 
-- 🌱 I’m currently learning **UI / UX Design** and **Java**
-
-- 👯 I’m looking to collaborate with others on [GitWiki](https://github.com/larkceresin/GitWiki)
+- 🌱 I’m currently learning **UI / UX Design** and expanding my knowledge of web development technologies
 
 - 💬 Ask me about Pair Programming!
-
-- ⚡ I've been helping as an assistant tutor with Practicum X Yandex: with the web development program and Pair Programming.
 
 - 📫 Reach me at **jennatoff@comcast.net**
 
